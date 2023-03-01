@@ -1,0 +1,5 @@
+Ley de Demeter: No satisface este principio porque emplea metodos generados en una clase con la que no está conectada directamente
+
+Abierto-Cerrado: No lo satisface porque a la hora de querer escalar en servicios a proporcionar habría que modificar el método, lo cual rompe el principio de que debe ser 'cerrado'.
+
+Sustitución de Liskov: 
